@@ -23,3 +23,4 @@ class BaseAction:
 
     def clear(self,feature):
         self.find_element(feature).clear()
+
